@@ -1,4 +1,4 @@
-Estrutura de Dados em Java
+-- Estrutura de Dados em Java
 Este repositório contém uma coleção de códigos e implementações de estruturas de dados em Java. O objetivo é proporcionar um ambiente de aprendizado e prática para o desenvolvimento de habilidades em estruturas de dados, um conceito fundamental na programação e na resolução eficiente de problemas.
 
 Estruturas Incluídas
