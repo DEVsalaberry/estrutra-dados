@@ -19,11 +19,4 @@ Foto ilustrativa da Classe Binaria
 
 
 
-## Como Usar
-- Clone este repositório em sua máquina local.
-- Explore os diferentes diretórios para acessar o código fonte de cada estrutura de dados.
-- Compile e execute os exemplos para entender o funcionamento e a aplicação de cada estrutura.
-- Experimente modificar e expandir as implementações para consolidar seu aprendizado.
 
-## Recursos Adicionais
-- Além das implementações, este repositório também inclui recursos adicionais, como documentação, exemplos de uso e links para materiais de estudo relacionados a estruturas de dados em Java.
